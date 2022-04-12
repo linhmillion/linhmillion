@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own project**
 
-- 🌱 I’m currently learning **Vue and React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any project**
 
